@@ -50,11 +50,6 @@ import javafx.stage.FileChooser.ExtensionFilter;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
 
-/**
- *
- * @Author     : MarcoMan
-    Support and Subscribe our channel: https://www.youtube.com/channel/UCPgcmw0LXToDn49akUEJBkQ
- */
 public class dashboardController implements Initializable{
 
     @FXML
@@ -330,9 +325,7 @@ public class dashboardController implements Initializable{
             
         }catch(Exception e){e.printStackTrace();}
         
-    } // THATS IT FOR THIS VIDEO, THANKS FOR WATCHING! HOPE YOU LIKE IT : ) 
-    // SUBSCRIBE OUR CHANNEL FOR MORE COOL PROJECT TUTORIALS 
-    // THANKS FOR THE SUPPORT! <3
+    } 
     
     public void availableBooksAdd(){
         
